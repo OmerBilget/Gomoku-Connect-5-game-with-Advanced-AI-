@@ -1,4 +1,4 @@
-# Gomoku-Connect-5-game-with-Advenced-AI-
+# Gomoku-Connect-5-game-with-Advanced-AI-
 used wxWidgets Graphics in C++  
 added compiled executable for windows   
 used bitboards to represent the board  
